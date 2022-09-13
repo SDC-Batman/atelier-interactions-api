@@ -1,1 +1,1 @@
-# rfp2207-atelier-interactions-api
+# atelier-interactions-api
